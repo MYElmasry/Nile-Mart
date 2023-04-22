@@ -36,13 +36,11 @@ function Cart() {
             return (
               <Card
                 key={id}
-                className="mb-4 p-2"
+                className="mb-4 p-2 flex-col-reverse md:flex-row-reverse"
                 sx={{
                   display: "flex",
                   justifyContent: "flex-start",
                   width: "100%",
-                  height: 350,
-                  flexDirection: "row-reverse",
                 }}
               >
                 <Box sx={{ display: "flex", flexDirection: "column", flex: 1 }}>
