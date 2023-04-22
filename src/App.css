@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(231 235 240);
+  font-family: Tahoma;
+  font-size: 16px;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}

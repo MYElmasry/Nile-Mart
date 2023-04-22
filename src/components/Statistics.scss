@@ -1,0 +1,9 @@
+.box {
+  border: 1px solid #ccc;
+  width: calc(25% - 8px);
+}
+@media (max-width: 767px) {
+  .box {
+    width: calc(50% - 8px);
+  }
+}

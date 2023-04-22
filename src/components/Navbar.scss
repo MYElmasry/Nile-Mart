@@ -1,0 +1,43 @@
+nav {
+  background-color: rgba(#000000, 0.6);
+  .buttons-container {
+    font-size: 18px;
+  }
+  .drop-down {
+    position: absolute;
+    top: 100%;
+    border-radius: 6px;
+    width: 100%;
+    background-color: white;
+    padding: 8px;
+    color: rgba(#000000, 0.6);
+    .dashboard {
+      display: block;
+      color: rgba(#000000, 0.6);
+      padding-bottom: 4px;
+      border-bottom: 1px solid #ccc;
+    }
+    p {
+      padding-top: 4px;
+    }
+    &::before {
+      content: "";
+      position: absolute;
+      top: -11px;
+      right: 4px;
+      border: 6px transparent solid;
+      border-color: transparent transparent white transparent;
+    }
+  }
+}
+.cart-number {
+  border-radius: 50%;
+  background-color: red;
+  width: 18px;
+  height: 18px;
+  line-height: 18px;
+  text-align: center;
+  display: block;
+  top: -10px;
+  right: -10px;
+}

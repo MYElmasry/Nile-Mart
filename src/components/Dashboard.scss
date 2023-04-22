@@ -1,0 +1,11 @@
+.dashboard-container {
+  min-height: calc(100vh - 60px);
+  .sidebar {
+    width: 10%;
+    min-height: 100vh;
+  }
+  .dashboard-content {
+    width: 90%;
+    border-left: 1px solid #ccc;
+  }
+}
