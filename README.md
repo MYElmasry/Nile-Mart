@@ -1,6 +1,6 @@
 # Nile Mart
 
-Nile Mart is an ecommerce website that allows users to browse, search, and purchase products. It was built using React.js and Redux, and is integrated with the Fake Store API to fetch products, cart, and user data.
+Nile Mart is a fully responsive ecommerce website that allows users to browse, search, and purchase products. It was built using React.js and Redux, and is integrated with the Fake Store API to fetch products, cart, and user data.
 
 ## Live Demo
 
