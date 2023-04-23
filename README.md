@@ -23,7 +23,7 @@ The product details page contains the full description of the product, as well a
 The cart page displays all the products that the user has added to their cart, and allows them to change the quantity of a specific product before checking out. The cart can also be cleared if the user decides not to purchase anything.
 
 ### Dahboard Page
-The dashboard page is only accessible to admins, and contains three sub-pages:
+The dashboard page is only accessible to admins, and contains three sub-pages (You can access it by login with this email: admin, password: admin):
 1. Products page, where admins can add, edit, or delete products.
 2. User page, where all users registered on the website are displayed. Admins can ban users or add new users, and can also export the user data as an Excel or PDF file.
 3. Statistics page, where numerical statistics such as the number of products, number of users, number of ratings, and revenue amount are displayed. A bar chart also shows the average rating of each category of products, and can be exported as an image or printed.
