@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Nile-Mart/static/css/main.18b72ece.css",
-    "main.js": "/Nile-Mart/static/js/main.fccc2052.js",
+    "main.css": "/Nile-Mart/static/css/main.c2d4202d.css",
+    "main.js": "/Nile-Mart/static/js/main.39564e91.js",
     "static/js/963.3f737f41.chunk.js": "/Nile-Mart/static/js/963.3f737f41.chunk.js",
     "static/js/413.da6da304.chunk.js": "/Nile-Mart/static/js/413.da6da304.chunk.js",
     "static/js/52.62399712.chunk.js": "/Nile-Mart/static/js/52.62399712.chunk.js",
@@ -10,15 +10,15 @@
     "static/media/dxicons.ttf": "/Nile-Mart/static/media/dxicons.506efc48bb7054c11c4d.ttf",
     "static/media/dxicons.woff2": "/Nile-Mart/static/media/dxicons.dc1bbe3fe80897e2c012.woff2",
     "index.html": "/Nile-Mart/index.html",
-    "main.18b72ece.css.map": "/Nile-Mart/static/css/main.18b72ece.css.map",
-    "main.fccc2052.js.map": "/Nile-Mart/static/js/main.fccc2052.js.map",
+    "main.c2d4202d.css.map": "/Nile-Mart/static/css/main.c2d4202d.css.map",
+    "main.39564e91.js.map": "/Nile-Mart/static/js/main.39564e91.js.map",
     "963.3f737f41.chunk.js.map": "/Nile-Mart/static/js/963.3f737f41.chunk.js.map",
     "413.da6da304.chunk.js.map": "/Nile-Mart/static/js/413.da6da304.chunk.js.map",
     "52.62399712.chunk.js.map": "/Nile-Mart/static/js/52.62399712.chunk.js.map",
     "988.a5820b9f.chunk.js.map": "/Nile-Mart/static/js/988.a5820b9f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18b72ece.css",
-    "static/js/main.fccc2052.js"
+    "static/css/main.c2d4202d.css",
+    "static/js/main.39564e91.js"
   ]
 }
