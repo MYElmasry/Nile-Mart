@@ -12,7 +12,6 @@ import { useSnackbar } from "notistack";
 
 function Products() {
   const { enqueueSnackbar } = useSnackbar();
-  const cart = useSelector((state) => state.cart);
   const data = useSelector((state) => state.products);
   const dispatch = useDispatch();
   const allCategories = [
@@ -85,7 +84,6 @@ function Products() {
                   size="small"
                   onClick={() => {
                     dispatch(addToCart(product));
-                    console.log(cart);
                     enqueueSnackbar("Added to Cart", {
                       variant: "success",
                       autoHideDuration: 3000,
