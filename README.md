@@ -44,3 +44,5 @@ To use Nile Mart on your own machine, follow these steps:
 2. Install the required packages using npm install.
 3. Start the development server using npm start.
 
+## Contributing
+If you would like to contribute to Nile Mart, please feel free to fork this repository and submit a pull request with your changes. We welcome any contributions that improve the website's functionality or user experience.
